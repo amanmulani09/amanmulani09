@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanmulani09&label=Profile%20views&color=0e75b6&style=flat" alt="amanmulani09" /> </p>
 
-- 💬 Ask me about **JavaScript,React,CSS3,HTML5**
+- 💬 Ask me about **ReactJS,JavaScript,CSS3,HTML5,Adobe Photoshop**
 
 - 📫 How to reach me **mulaniaman0504@gmail.com**
 
