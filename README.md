@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aman Mulani</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h3 align="center">A passionate FrontEnd Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanmulani09&label=Profile%20views&color=0e75b6&style=flat" alt="amanmulani09" /> </p>
 
-- 💬 Ask me about **ReactJS,JavaScript,CSS3,HTML5,Adobe Photoshop**
+- 💬 Ask me about **ReactJS,JavaScript,CSS3,HTML5**
 
 - 📫 How to reach me **mulaniaman0504@gmail.com**
 
