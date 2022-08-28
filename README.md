@@ -5,6 +5,26 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanmulani09" alt="amanmulani09" /></a> </p>
 
+const Aman = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "HTML5", "CSS3"],
+    askMeAbout: ["web dev", "tech", "frontend dev", "gaming"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Redux"],
+           styling : ["CSS3", "Styled Components", "Bootstrap"]
+            
+        },
+        backEnd: {
+            js: ["Firebase"]
+        },
+        databases: ["MySql"]
+    },
+    architecture: [ "Progressive web applications", "Single page applications"],
+    funFact: "Ctrl + C and Ctrl + V have saved more lives than Batman and Robin."
+};
+
+
 - 👨‍💻 All of my projects are available at [https://amanmulani.netlify.app/index.html](https://amanmulani.netlify.app/index.html)
 
 - 📝 I regularly write articles on [https://medium.com/@amanmulani](https://medium.com/@amanmulani)
