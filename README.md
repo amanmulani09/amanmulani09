@@ -13,7 +13,6 @@ const Aman = {
         frontEnd: {
             js: ["React", "Redux"],
            styling : ["CSS3", "Styled Components", "Bootstrap"]
-            
         },
         backEnd: {
             js: ["Firebase"]
