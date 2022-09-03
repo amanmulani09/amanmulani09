@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanmulani09&label=Profile%20views&color=0e75b6&style=flat" alt="amanmulani09" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanmulani09" alt="amanmulani09" /></a> </p>
-
-
 <img src="https://user-images.githubusercontent.com/85010850/187059852-d852d7c4-6282-4a60-b904-2e6bb1520548.png" style="width:650px"/>
 
 - 👨‍💻 All of my projects are available at [https://amanmulani.netlify.app/index.html](https://amanmulani.netlify.app/index.html)
