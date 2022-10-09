@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/85010850/187059852-d852d7c4-6282-4a60-b904-2e6bb1520548.png" style="width:650px"/>
 
-- 👨‍💻 All of my projects are available at [https://amanmulani.netlify.app/index.html](https://amanmulani.netlify.app/index.html)
+- 👨‍💻 All of my projects are available at [https://amanmulani-personal-portfolio.netlify.app/](https://amanmulani-personal-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@amanmulani](https://medium.com/@amanmulani)
 
