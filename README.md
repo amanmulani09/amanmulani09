@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@amanmulani](https://medium.com/@amanmulani)
 
-- 💬 Ask me about **react,redux, javascript, html5, css3, styled-components**
+- 💬 Ask me about **react,redux-toolkit/redux,TypeScipt/javascript, html5, css3,**
 
 - 📫 How to reach me **mulaniaman0504@gmail.com**
 
