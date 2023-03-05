@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building side projects using react and typescript <br>👯 I’m looking to collaborate on building and breaking web tooling stuff together<br>🌱 I’m currently learning how to learn :)<br>💬 Ask me about recently launched web series, tech, and volleyball.<br>⚡ Fun fact is there is life outside <DOCTYPE HTML >
+🔭 I’m currently working on building side projects using react and typescript <br>👯 I’m looking to collaborate on building and breaking web tooling stuff together<br>🌱 I’m currently learning how to learn :)<br>💬 Ask me about recently launched web series, tech, and volleyball.<br>⚡ Fun fact is there is life outside "<!DOCTYPE HTML >"
 
 
 ## 🌐 Socials:
