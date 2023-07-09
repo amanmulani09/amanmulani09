@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on experimenting and breaking web stuff with the React universe and typeScript shield <br>👯 I’m looking to collaborate on building and breaking web tooling stuff together<br>🌱 I’m currently learning Nextjs and typeScript <br>
+🔭 I’m currently working on experimenting and building web stuff with the React universe and typeScript shield <br>👯 I’m looking to collaborate on building and breaking web tooling stuff together<br>🌱 I’m currently learning Nextjs and typeScript <br>
 
 
 ## 🌐 Socials:
