@@ -1,6 +1,11 @@
 <h2 align="left">Welcome to Aman's GitHub profile</h2>
 
 ###
+I am a full-stack developer
+
+Currently working at HMX Media as a Frontend developer
+
+I am exploring NextJs and backend development!
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
