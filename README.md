@@ -3,7 +3,7 @@
 ###
 I am a full-stack developer
 
-Currently working at HMX Media as a Frontend developer
+Currently working Frontend Engineer 
 
 I am exploring NextJs and backend development!
 
