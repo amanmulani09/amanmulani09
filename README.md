@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aman</h1>
+<h1 align="center">Hi 👋 I'm Aman</h1>
 <h3 align="center">A passionate Full-stack JavaScript developer from India.</h3>
 <img src="https://user-images.githubusercontent.com/34391629/188001276-e28ab9d6-0401-4433-a74b-42e33580edbc.svg#gh-dark-mode-only" alt="streak" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanmulani09&label=Profile%20views&color=0e75b6&style=flat" alt="amanmulani09" /> </p>
