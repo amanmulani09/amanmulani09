@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://amanmulani-personal-portfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@amanmulani](https://medium.com/@amanmulani)
+- 📝 I regularly write articles on https://medium.com/@amanmulani](https://medium.com/@amanmulani
 
 - 💬 Ask me about **Web Development**
 
