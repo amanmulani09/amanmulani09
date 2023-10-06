@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/34391629/188001276-e28ab9d6-0401-4433-a74b-42e33580edbc.svg#gh-dark-mode-only" alt="streak" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanmulani09&label=Profile%20views&color=0e75b6&style=flat" alt="amanmulani09" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://amanmulani-personal-portfolio.netlify.app/](https://portfolioamanmulani.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolioamanmulani.vercel.app/](https://portfolioamanmulani.vercel.app/)
 
 - 📝 I regularly write articles on https://medium.com/@amanmulani](https://medium.com/@amanmulani
 
