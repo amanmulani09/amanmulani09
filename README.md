@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on https://medium.com/@amanmulani](https://medium.com/@amanmulani
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about ** Software Engineering, travelling, and in-general life.
 
 - 📫 How to reach me **mulaniaman0504@gmail.com**
 
