@@ -1,24 +1,60 @@
-<img src="https://raw.githubusercontent.com/yashsehgal/yashsehgal/main/media/gh-profile-banner.png" alt="banner" />
-<h1 align="center">Hi 👋 I'm Aman</h1>
-<h3 align="center">A passionate Software Engineer From India.</h3>
-<img src="https://user-images.githubusercontent.com/34391629/188001276-e28ab9d6-0401-4433-a74b-42e33580edbc.svg#gh-dark-mode-only" alt="streak" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanmulani09&label=Profile%20views&color=0e75b6&style=flat" alt="amanmulani09" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://bento.me/amanmulani/](https://bento.me/amanmulani)
-
-- 📝 I regularly write articles on https://medium.com/@amanmulani](https://medium.com/@amanmulani
-
-- 💬 Ask me about ** Software Engineering, travelling, and in-general life.
-
-- 📫 How to reach me **mulaniaman0504@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://in.linkedin.com/in/aman-mulani-6b122314b?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/aman-mulani-6b122314b?trk=people-guest_people_search-card" height="30" width="40" /></a>
-<a href="https://medium.com/@amanmulani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amanmulani" height="30" width="40" /></a>
+<!-- HEADER -->
+<h1 align="center">Hey — I’m Aman!</h1>
+<p align="center">
+ Software Engineering&nbsp;@&nbsp;<a href="https://www.thgingenuity.com/">THG Ingenuity</a> • Commerce-platform builder • AI & performance advocate
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lupuletic&style=flat-square&color=blue" alt="profile views"/>
+  <a href="https://www.linkedin.com/in/aman-mulani/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanmulani09&" alt="amanmulani09" /></p>
+---
+
+## 🧭 About me
+- 🌐 **Commerce at scale** — building THG’s multi-tenant GraphQL + REST commerce platform on Fastly’s edge, serving dozens of global storefronts with 99.9 %+ availability.  
+- 🚀 **Performance & observability mantra** — low **p90 latency (< 100 ms)**, crystal-clear Dynatrace + Grafana dashboards, automated alerting, and flame-graph deep dives for fun.  
+- 🤖 **AI innovation** — building RAG pipelines and agentic apps with Google Agent Development Kit, AI Agents Builder, Vertex AI and custom **Model Context Protocols**.  
+- 🧩 **Full-stack mindset** — hands-on across frontend, backend, infra and data; always learning the next wave of tech.  
+
+---
+
+## 🛰 What my org delivers
+
+| Domain | Mission |
+| ------ | ------- |
+| **Commerce APIs** | Transaction-grade GraphQL **and REST** services driving shopping & payment across every channel. |
+| **Customer Experience** | Headless storefronts & content, cached via **Fastly CDN**, with GraphQL executed at the edge for sub-second loads. |
+| **Data & Loyalty** | Account, profile, loyalty, survey, and offer engines that personalise journeys at scale. |
+| **Observability & Ops** | Real-time monitoring (Dynatrace + Grafana), CI/CD automation, and edge tooling that give engineers super-powers. |
+| **Innovation** | A GenAI mini-squad pushing RAG, edge inference, and agentic product discovery. |
+
+---
+
+## 🧰 Tech stack
+
+| **Area**                | **Key tools / icons** |
+| ----------------------- | --------------------- |
+| Languages & Runtime     | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white) |
+| Frontend & UI           | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white) |
+| APIs & AI               | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white) ![REST](https://img.shields.io/badge/REST-025E8C?logoColor=white) ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?logo=googlecloud&logoColor=white) |
+| Databases & Storage     | ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4184F4?logo=googlecloud&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white) |
+| Infra & Edge            | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Fastly](https://img.shields.io/badge/Fastly-E00036?logo=fastly&logoColor=white) ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?logo=cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white) |
+| Observability           | ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?logo=dynatrace&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) |
+| CI/CD & DevEx           | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) ![Argo CD](https://img.shields.io/badge/Argo%20CD-E00?logo=argo&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) |
+
+---
+
+## 🤝 Connect
+<a href="https://www.linkedin.com/in/aman-mulani/">
+  <img src="https://img.shields.io/badge/LinkedIn-Message_me-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:mulaniaman0504@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_hi-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+---
+
+> **“Velocity wins markets; curiosity wins decades.”**
