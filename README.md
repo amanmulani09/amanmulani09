@@ -46,8 +46,9 @@ I see software development as a **means to an end** — the end being products t
 - **Backend:** Node.js, Python, FastAPI  
 - **CMS & Platforms:** Payload CMS, Strapi  
 - **Databases:** PostgreSQL, MongoDB  
-- **Infra & Cloud:** AWS, GCP  
+- **Infra & Cloud:** AWS, Docker 
 - **Product Thinking:** UX trade-offs, MVP scoping, iteration speed
+- **AI & Automation:** LLM APIs, RAG pipelines, n8n workflows, AI-assisted development tooling
 
 ---
 
@@ -71,34 +72,7 @@ I leverage tools like **Claude Code** and **Antigravity** to:
 - Rapidly prototype MVPs
 - Explore multiple architectural approaches quickly
 - Move from idea → working product at high velocity
-
----
-
-## 🛠️ Tech Stack Snapshot
-
-**Frontend**
-- TypeScript, React, Next.js, Astro
-- Tailwind CSS, Storybook
-- React Native (mobile-first thinking)
-
-**Backend**
-- Node.js, Python, FastAPI
-- REST & GraphQL APIs
-- CMS-driven architectures (Payload, Strapi)
-
-**Data**
-- PostgreSQL, MongoDB
-- Schema design, migrations, performance tuning
-
-**Cloud & Infra**
-- AWS, GCP
-- CI/CD, deployments, environment management
-
-**AI & Automation**
-- LLM APIs, RAG pipelines
-- n8n workflows
-- AI-assisted development tooling
-
+  
 ---
 
 ## 🌱 What I Care About
