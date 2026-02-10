@@ -1,88 +1,131 @@
 <h1 align="center">Hey 👋 I'm Aman Mulani</h1>
 
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjx" height="60" alt="NestJS" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=reactnative" height="60" alt="React Native" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=astro" height="60" alt="Astro" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS" />
-</div>
-
-###
-
-#### 👨‍💻 About Me
-
-I’m a **frontend-focused full-stack engineer** currently **Engineering @ THG Ingenuity**, previously at **Razorpay** — building performant, scalable web & mobile experiences with a passion for **UX, AI integrations, and strong system design**. :contentReference[oaicite:1]{index=1}
-
-- 🌍 Based in **Pune, Maharashtra** 🇮🇳 :contentReference[oaicite:2]{index=2}  
-- 🚀 Experience with **React | Next.js | Node | NestJS | React Native | Astro | AI** :contentReference[oaicite:3]{index=3}  
-- 💡 Advocate for building **robust, maintainable, and user-centric products** :contentReference[oaicite:4]{index=4}
-
-###
-
-<div align="center">
-  <a href="https://x.com/Amn_mulani" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&style=for-the-badge" height="25" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/aman-mulani" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/amanmulani09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&style=for-the-badge" height="25" alt="GitHub" />
-  </a>
-  <a href="https://bento.me/amanmulani" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Bento&logo=bento&color=000000&style=for-the-badge" height="25" alt="Bento" />
-  </a>
-  <a href="https://leetcode.com/amanmulani09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&style=for-the-badge" height="25" alt="LeetCode" />
-  </a>
-</div>
-
-###
-
-## 🛠️ Tech Stack
-
-| Frontend | Backend | Mobile | Infra & Cloud |
-|----------|---------|--------|----------------|
-| TypeScript | Node.js | React Native | AWS |
-| React | NestJS | — | Docker |
-| Next.js | GraphQL / REST | — | Kubernetes |
-| Astro | SQL / NoSQL | — | Observability |
-
-###
-
-## 🔭 Projects
-
-- ⚡ **Architected and developed entire frontend for Razorpay’s Industry-First Push Provisioning Platform** :contentReference[oaicite:5]{index=5}  
-- 📱 Full-stack applications using **React / Next.js / Node / NestJS**  
-- 🧠 AI-powered features & custom tools built into modern workflows
-
-*(Add links to your most pinned GitHub repos here)*
+<h3 align="center">
+Full-Stack Product Engineer • Applied AI • From Idea → MVP → Scale
+</h3>
 
 ---
 
-> “Velocity wins markets; curiosity wins decades.” — Personal motto
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=react" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=astro" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=reactnative" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=python" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=aws" height="55" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="55" />
+</div>
 
 ---
 
-📫 **Let’s connect!**
+## 👨‍💻 About Me
 
-- X / Twitter: [@Amn_mulani](https://x.com/Amn_mulani)  
-- LinkedIn: https://www.linkedin.com/in/aman-mulani  
-- GitHub: https://github.com/amanmulani09  
-- Bento: https://bento.me/amanmulani
+I’m a **Full-Stack Product Engineer with Applied AI experience**, building software from **concept → MVP → production**.
 
+I see software development as a **means to an end** — the end being products that users genuinely love and find useful. I’ve worked across **every layer of modern product development**, collaborating closely with both **technical and non-technical stakeholders**.
+
+### What I’ve built with:
+
+- **Frontend:** React, Next.js, Astro, React Native  
+- **Backend:** Node.js, Python, FastAPI  
+- **CMS & Platforms:** Payload CMS, Strapi  
+- **Databases:** PostgreSQL, MongoDB  
+- **Infra & Cloud:** AWS, GCP  
+- **Product Thinking:** UX trade-offs, MVP scoping, iteration speed
+
+---
+
+## 🤖 Applied AI & AI-Native Development
+
+Since early **2024**, I’ve been deeply involved in **AI application development**, building real, user-facing AI features — not just demos.
+
+### AI technologies I work with:
+- LLM APIs (OpenAI, Anthropic, etc.)
+- Prompt engineering & evaluation
+- RAG pipelines (vector search, retrieval strategies)
+- Workflow automation with **n8n**
+- AI-powered internal tools & product features
+
+### AI as a force multiplier
+I don’t just **build AI-powered products** —  
+I actively **use AI to build products faster**.
+
+I leverage tools like **Claude Code** and **Antigravity** to:
+- Ship large, complex features in very little time
+- Rapidly prototype MVPs
+- Explore multiple architectural approaches quickly
+- Move from idea → working product at high velocity
+
+---
+
+## 🛠️ Tech Stack Snapshot
+
+**Frontend**
+- TypeScript, React, Next.js, Astro
+- Tailwind CSS, Storybook
+- React Native (mobile-first thinking)
+
+**Backend**
+- Node.js, Python, FastAPI
+- REST & GraphQL APIs
+- CMS-driven architectures (Payload, Strapi)
+
+**Data**
+- PostgreSQL, MongoDB
+- Schema design, migrations, performance tuning
+
+**Cloud & Infra**
+- AWS, GCP
+- CI/CD, deployments, environment management
+
+**AI & Automation**
+- LLM APIs, RAG pipelines
+- n8n workflows
+- AI-assisted development tooling
+
+---
+
+## 🌱 What I Care About
+
+- Shipping fast **without sacrificing quality**
+- Building **useful, lovable products**
+- Clean architecture that scales with the product
+- Using AI **practically**, not performatively
+- Learning continuously and sharing knowledge
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/aman-mulani">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Amn_mulani">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://github.com/amanmulani09">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://bento.me/amanmulani">
+    <img src="https://img.shields.io/badge/Bento-000000?style=for-the-badge" />
+  </a>
+</div>
+
+---
+
+### 🚀 Let’s connect and build something amazing!
