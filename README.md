@@ -1,105 +1,57 @@
-<h1 align="center">Hey 👋 I'm Aman Mulani</h1>
+<h1 align="center">Aman Mulani</h1>
 
-<h3 align="center">
-Full-Stack Product Engineer • Applied AI • From Idea → MVP → Scale
-</h3>
-
----
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=astro" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=reactnative" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=python" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=aws" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="55" />
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I’m a **Full-Stack Product Engineer with Applied AI experience**, building software from **concept → MVP → production**.
-
-I see software development as a **means to an end** — the end being products that users genuinely love and find useful. I’ve worked across **every layer of modern product development**, collaborating closely with both **technical and non-technical stakeholders**.
-
-### What I’ve built with:
-
-- **Frontend:** React, Next.js, Astro, React Native  
-- **Backend:** Node.js, Python, FastAPI  
-- **CMS & Platforms:** Payload CMS, Strapi  
-- **Databases:** PostgreSQL, MongoDB  
-- **Infra & Cloud:** AWS, Docker 
-- **Product Thinking:** UX trade-offs, MVP scoping, iteration speed
-- **AI & Automation:** LLM APIs, RAG pipelines, n8n workflows, AI-assisted development tooling
-
----
-
-## 🤖 Applied AI & AI-Native Development
-
-Since early **2024**, I’ve been deeply involved in **AI application development**, building real, user-facing AI features — not just demos.
-
-### AI technologies I work with:
-- LLM APIs (OpenAI, Anthropic, etc.)
-- Prompt engineering & evaluation
-- RAG pipelines (vector search, retrieval strategies)
-- Workflow automation with **n8n**
-- AI-powered internal tools & product features
-
-### AI as a force multiplier
-I don’t just **build AI-powered products** —  
-I actively **use AI to build products faster**.
-
-I leverage tools like **Claude Code** and **Antigravity** to:
-- Ship large, complex features in very little time
-- Rapidly prototype MVPs
-- Explore multiple architectural approaches quickly
-- Move from idea → working product at high velocity
-  
----
-
-## 🌱 What I Care About
-
-- Shipping fast **without sacrificing quality**
-- Building **useful, lovable products**
-- Clean architecture that scales with the product
-- Using AI **practically**, not performatively
-- Learning continuously and sharing knowledge
+<p align="center">
+Product Engineer • Full-Stack Systems • Applied AI
+</p>
 
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aman-mulani">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/Amn_mulani">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://github.com/amanmulani09">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://bento.me/amanmulani">
-    <img src="https://img.shields.io/badge/Bento-000000?style=for-the-badge" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts" height="50" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" />
 </div>
 
 ---
 
-### 🚀 Let’s connect and build something amazing!
+## About
+
+I build products from idea to production, working across frontend, backend, infrastructure, and AI systems.
+
+My focus is on solving business problems, shipping quickly, and building systems that remain maintainable as products evolve. I've worked closely with founders, product teams, and stakeholders to turn ambiguous requirements into reliable software.
+
+## Areas of Focus
+
+* Product engineering & rapid iteration
+* Full-stack web and mobile applications
+* Applied AI, LLM integrations, and RAG systems
+* Workflow automation and internal tooling
+* Scalable backend architecture and cloud infrastructure
+
+## Tech
+
+**Frontend:** React, Next.js, Astro, React Native
+**Backend:** Node.js, Python, FastAPI
+**Data:** PostgreSQL, MongoDB
+**Infrastructure:** AWS, Docker
+**AI:** OpenAI, Anthropic, RAG, n8n
+
+## Principles
+
+* Optimize for outcomes, not complexity
+* Move fast without accumulating unnecessary debt
+* Prefer pragmatic architecture over premature abstraction
+* Use AI where it creates measurable leverage
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aman-mulani">LinkedIn</a> •
+  <a href="https://x.com/Amn_mulani">X</a> •
+  <a href="https://github.com/amanmulani09">GitHub</a> •
+  <a href="https://bento.me/amanmulani">Bento</a>
+</p>
